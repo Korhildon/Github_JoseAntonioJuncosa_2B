@@ -1,2 +1,2 @@
-Alt -Welcome to our Animation Project Wiki!
+Alt-Welcome to our Animation Project Wiki!
 
